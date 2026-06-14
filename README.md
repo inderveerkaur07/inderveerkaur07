@@ -40,6 +40,6 @@ I'm passionate about learning new technologies and turning ideas into practical 
 📫 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/inderveer-kaur-52bb7337b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- GitHub: [inderveerkaur07]
+- GitHub: [https://github.com/inderveerkaur07/inderveerkaur07/tree/main]
 
 ✨ Learning • Building • Growing ✨
