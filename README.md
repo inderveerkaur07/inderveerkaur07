@@ -10,7 +10,7 @@ I'm passionate about learning new technologies and turning ideas into practical 
 - 💻 Exploring software development and programming
 - 🌱 Continuously learning and improving technical skills
 - 🤝 Interested in teamwork, collaboration, and innovation
-- 🎯 Focused on building meaningful real-world projects
+- 🎯 Focused on building meaningful real-world projecs
 
 🛠️ Skills
 
