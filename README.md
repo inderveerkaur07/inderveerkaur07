@@ -2,7 +2,7 @@ Hi, I'm Inderveer Kaur 👋
 
 Computer Science Student | Problem Solver | Tech Enthusiast
 
-I'm passionate about learning new technologies and turning ideas into practical projects. My interests include software development, programming, and building solutions that combine creativity with technology.
+I'm passionate about learning new technologies and turning ideas into practical projects. 
 
 🚀 About Me
 
