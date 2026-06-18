@@ -15,7 +15,6 @@ I'm passionate about learning new technologies and turning ideas into practical 
 🛠️ Skills
 
 - C Programming
-- Python
 - Arduino & ESP32
 - Git & GitHub
 - HTML & CSS
